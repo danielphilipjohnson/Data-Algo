@@ -38,7 +38,7 @@ console.log(palindrome("racecar"))
 // a _ _ _ a  === match
 // c _ c === match
 
-
+// Reverse Call Stack 
 // 1. palindrome("racecar") 
 // 2. palindrome("aceca")
 // 3. palindrome("cec")
